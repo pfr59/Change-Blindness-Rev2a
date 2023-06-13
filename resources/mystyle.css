@@ -1,0 +1,47 @@
+html, body {
+	width: 600px;
+    height: 200px;
+	background-color: #A9A9A9;
+}
+
+h1{
+	font-family: arial;
+	text-align: center;
+}
+		
+h2{
+	font-family: arial;
+	padding-left: 20px;
+}
+
+h3{
+	font-family: arial;
+	padding-left: 20px;
+	padding-bottom: 5px;
+}
+
+h4{
+	font-family: arial;
+	padding-left: 20px;
+}
+
+p {
+  	font-family: arial;
+  	font-size: 14px;
+  	padding-left: 20px;
+  	padding-right: 20px;
+}
+
+ul{
+	padding-left: 20px;
+	padding-right: 20px;	
+}
+
+li{
+  	font-family: arial;
+  	font-size: 20px;
+}
+
+.bold{
+	font-weight: bold;
+}
